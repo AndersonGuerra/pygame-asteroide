@@ -24,5 +24,5 @@ pip install pygame
 ```
 Como rodar
 ```bash
-python pong.py
+python main.py
 ```
